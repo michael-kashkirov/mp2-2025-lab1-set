@@ -6,6 +6,8 @@
 // Тестирование битового поля и множества
 
 #include <iomanip>
+#include <iostream> 
+using namespace std;
 
 // #define USE_SET // Использовать класс TSet,
                 // закоментировать, чтобы использовать битовое поле
